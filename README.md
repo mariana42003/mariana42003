@@ -21,16 +21,16 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Actualmente aprendiendo **Java, Python y JavaScript**
+- 🌱 Actualmente aprendiendo **Java y css**
 - 💡 Interesada en desarrollo web
 - 🎯 Meta: Convertirme en desarrolladora profesional
-
+ 
 ---
 
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,vscode">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,vscode">
 </p>
 
 ---
