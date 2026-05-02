@@ -1,5 +1,5 @@
-<h1 align="center">Hi ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏 </h1>
-<h3 align="center">𝑱𝒂𝒗𝒂 • 𝑨𝑾𝑺 • 𝑷𝒚𝒕𝒉𝒐𝒏</h3>
+<h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏 </h1>
+
 
 <p align="center">
   <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="180"/>
@@ -17,41 +17,12 @@
 
 </div>
 
----
-
-𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,aws,git,github,vscode" />
-
-</div>
-
----
 
 
-𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&border_radius=15" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&border_radius=15" height="160"/>
-
-</div>
-
----
 
 
-𝑨𝒄𝒕𝒊𝒗𝒊𝒅𝒂𝒅
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&radius=15" width="90%"/>
-
-</div>
-
----
 
 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒎á𝒔 𝒖𝒔𝒂𝒅𝒐𝒔
 
@@ -62,30 +33,14 @@
 
 ---
 
-𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆
+𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆
 
 <div align="center">
 
-<a href="www.linkedin.com/in/mariana-martinez-dev</a> •
+
 <a href="mariiiiduarte2007@gmail.com">Email</a>
 
 </div>
-
----
-
-𝑭𝒖𝒏 𝒁𝒐𝒏𝒆
-
-<div align="center">
-
-<img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="140"/>
-
-<br/>
-
-<i>"I'm also a Designer 😎"</i>
-
-</div>
-
-
 
 
 
