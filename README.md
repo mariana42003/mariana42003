@@ -1,6 +1,6 @@
 <!-- 🌈 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=200&section=header&text=Bienvenida%20a%20mi%20GitHub&fontSize=30&fontColor=ffffff"/>
+  <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif"/>
 </p>
 
 ---
