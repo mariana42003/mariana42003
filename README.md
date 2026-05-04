@@ -25,7 +25,7 @@
 
 
 
-𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒎á𝒔 𝒖𝒔𝒂𝒅𝒐𝒔
+𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒖𝒔𝒂𝒅𝒐𝒔
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,css,git,vscode" />
