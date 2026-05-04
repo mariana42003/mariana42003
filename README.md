@@ -39,12 +39,7 @@
 <div align="center">
 
 
-<a href="mariiiiduarte2007@gmail.com">Email</a>
+<a href="mariiiiduarte2007@gmail.com">mariiiiduarte2007@gmail.com</a>
 
 </div>
 
----
-
-<p align="center">
-🌸 𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙫𝙚𝙧 𝙢𝙞 𝙥𝙚𝙧𝙛𝙞𝙡 🌸
-</p>
