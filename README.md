@@ -34,12 +34,9 @@
 
 ---
 
-𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆
-
 <div align="center">
 
-
-<a href="mariiiiduarte2007@gmail.com">mariiiiduarte2007@gmail.com</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EricksantiagoVR&theme=tokyonight" height="180"/>
 
 </div>
 
