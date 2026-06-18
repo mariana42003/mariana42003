@@ -34,9 +34,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EricksantiagoVR&theme=tokyonight" height="180"/>
-
-</div>
 
