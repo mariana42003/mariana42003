@@ -1,115 +1,126 @@
- <h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:F9A8D4,50:C084FC,100:EC4899&text=%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B6%20%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%93%8F&fontColor=FFFFFF&fontSize=38&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner rosa y morado"/>
+
+<h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏</h1>
+
 <p align="center">
   <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="180" alt="Gatito durmiendo"/>
 </p>
 
-<h3 align="center">Desarrollo de Software | SENA</h3>
+<h3 align="center">୨୧ SOFTWARE DEVELOPMENT ୨୧</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Development-Estudiante-c084fc?style=flat-square&logo=github&logoColor=white" alt="Estudiante de desarrollo de software"/>
-  <img src="https://img.shields.io/badge/Frontend-En_aprendizaje-f9a8d4?style=flat-square&logo=html5&logoColor=white" alt="Desarrollo frontend"/>
-  <img src="https://img.shields.io/badge/Status-Learning-ff69b4?style=flat-square&logo=bookstack&logoColor=white" alt="En aprendizaje"/>
-</p>
+<img src="https://img.shields.io/badge/SENA-ADSO-C084FC?style=for-the-badge&logo=bookstack&logoColor=white" alt="SENA ADSO"/>
+<img src="https://img.shields.io/badge/FRONTEND-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend"/>
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING-E9D5FF?style=for-the-badge&logo=github&logoColor=7E22CE" alt="Aprendizaje continuo"/>
 
-<p align="center">
-  <i>Construyendo ideas, escribiendo código y aprendiendo en cada proyecto.</i>
-</p>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=github" width="22" /> Sobre mí
+✧ ──────────────── ୨୧ ──────────────── ✧
 
-Soy estudiante de Análisis y Desarrollo de Software en el SENA, interesada en el desarrollo web, la creación de interfaces y la construcción de aplicaciones.
+</div>
 
-Actualmente aprendiendo programación y desarrollo de software.
+<h2 align="center">୨୧ &nbsp; TECHNOLOGY STACK &nbsp; ୨୧</h2>
 
-Interesada en el diseño y desarrollo frontend.
+<div align="center">
 
-Practicando con proyectos académicos y personales.
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react&theme=light" alt="Java, HTML, CSS, JavaScript y React"/>
 
-Explorando bases de datos, APIs y control de versiones.
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=code" width="22" /> Tecnologías
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y VS Code"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,github,vscode,mysql,supabase" alt="Tecnologías y herramientas"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <sub>Lenguajes, herramientas y tecnologías que utilizo o estoy explorando durante mi formación.</sub>
-</p>
+<img src="https://img.shields.io/badge/Java-C084FC?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/HTML5-F9A8D4?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-C084FC?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-C084FC?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/SQL-F9A8D4?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 
-Herramientas de desarrollo
+<br/><br/>
 
-<p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  </a>
-</p>
+✧ &nbsp; ──────── &nbsp; ✧ &nbsp; ──────── &nbsp; ✧
 
-<img src="https://skillicons.dev/icons?i=git" width="22" /> Proyectos
+</div>
 
-KRONOS — Sistema de control de inventario
+---
 
-Sistema desarrollado como parte de mi formación en Análisis y Desarrollo de Software, enfocado en organizar y gestionar los procesos de inventario.
+<h2 align="center">୨୧ &nbsp; FEATURED PROJECTS &nbsp; ୨୧</h2>
 
-Funcionalidades del proyecto:
+<div align="center">
 
-Gestión de materiales y clasificación.
+<a href="https://github.com/mariana42003?tab=repositories">
+  <img src="https://img.shields.io/badge/✧_KRONOS-Inventory_System-E879F9?style=for-the-badge&logo=github&logoColor=white" alt="KRONOS Inventory System"/>
+</a>
 
-Registro de entradas y salidas de inventario.
+<br/><br/>
 
-Administración de proveedores y órdenes de compra.
+<img src="https://img.shields.io/badge/Inventory_Management-C084FC?style=flat-square" alt="Gestión de inventario"/>
+<img src="https://img.shields.io/badge/Database_SQL-F9A8D4?style=flat-square" alt="Base de datos SQL"/>
+<img src="https://img.shields.io/badge/Frontend_&_Backend-E9D5FF?style=flat-square" alt="Frontend y backend"/>
 
-Seguimiento de garantías.
+<br/><br/>
 
-Desarrollo de interfaces para diferentes roles de usuario.
+<a href="https://github.com/mariana42003?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&theme=omni&hide_border=true" width="90%" alt="Tarjeta del repositorio KRONOS"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/mariana42003?tab=repositories">
-    <img src="https://img.shields.io/badge/Explorar_repositorios-c084fc?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis repositorios"/>
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=github" width="22" /> Actividad en GitHub
+<a href="https://github.com/mariana42003?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FFB6D9?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los repositorios"/>
+</a>
 
-Estadísticas generales
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&theme=omni&hide_border=true&rank_icon=github" height="170" alt="Estadísticas de GitHub"/>
-</p>
+✧ ──────────────── ୨୧ ──────────────── ✧
 
-Lenguajes más utilizados
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&theme=omni&hide_border=true&langs_count=8" height="170" alt="Distribución de lenguajes en repositorios"/>
-</p>
+---
 
-Historial de contribuciones
+<h2 align="center">୨୧ &nbsp; GITHUB ANALYTICS &nbsp; ୨୧</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariana42003&theme=omni&hide_border=true" width="95%" alt="Racha de contribuciones"/>
-</p>
+<div align="center">
 
-Gráfica de actividad
+<img src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&theme=omni&hide_border=true&rank_icon=github&include_all_commits=true" width="95%" alt="Estadísticas generales de GitHub"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&theme=omni&hide_border=true&area=true" width="95%" alt="Actividad histórica en GitHub"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <i>Un commit a la vez, sigo construyendo mi camino en el desarrollo de software.</i>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&theme=omni&hide_border=true&langs_count=8" width="85%" alt="Lenguajes más utilizados"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,C084FC&height=100&section=footer" width="100%" alt="Decoración rosada y morada"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,C084FC&height=100&section=footer" width="100%" alt="Decoración rosa
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mariana42003&theme=omni&hide_border=true" width="95%" alt="Racha de contribuciones"/>
+
+<br/><br/>
+
+✧ &nbsp; ──────── &nbsp; ✧ &nbsp; ──────── &nbsp; ✧
+
+</div>
+
+---
+
+<h2 align="center">୨୧ &nbsp; CONTRIBUTION GRAPH &nbsp; ୨୧</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&theme=omni&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="100%" alt="Gráfica de actividad de GitHub"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C084FC,100:EC4899&height=130&section=footer" width="100%" alt="Decoración ondulada rosa y morada"/>
+
+<img src="https://img.shields.io/badge/Made_with-♡_and_code-FFB6D9?style=for-the-badge&logo=github&logoColor=white" alt="Made with love and code"/>
+
+<br/><br/>
+
+✧ &nbsp; ୨୧ &nbsp; ✧ &nbsp; ୨୧ &nbsp; ✧
+
+</div>
