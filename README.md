@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:F9A8D4,50:C084FC,100:EC4899&text=%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B6%20%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%93%8F&font=Pacifico&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=FBCFE8&strokeWidth=1" width="100%" alt="Mariana Martínez - banner rosa y morado"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:F9A8D4,50:C084FC,100:EC4899&text=%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B6%20%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%93%89%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%93%8F&font=Pacifico&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=FBCFE8&strokeWidth=1" width="100%" alt="Mariana Martínez - banner rosa y morado"/>
 
 <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="160" alt="Gatito durmiendo"/>
 
