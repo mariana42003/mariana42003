@@ -76,15 +76,7 @@ Sistema de gestión de inventario desarrollado para la ferretería y perfilería
 
 <img width="80%" src="https://streak-stats.demolab.com?user=mariana42003&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=F9A8D4&currStreakLabel=E9D5FF" alt="Racha de contribuciones"/>
 
-</div>
 
-## ୨୧ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&bg_color=0D1117&color=E9D5FF&line=C084FC&point=F9A8D4&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de GitHub"/>
-
-</div>
 
 ## ୨୧ Let's Connect
 
