@@ -1,124 +1,107 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:F9A8D4,50:C084FC,100:EC4899&fontColor=FFFFFF&fontSize=38&fontAlignY=50&animation=fadeIn&stroke=FBCFE8" width="100%" alt="Fondo decorativo rosa y morado"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:F9A8D4,50:C084FC,100:EC4899&text=%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B6%20%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%93%8F&font=Pacifico&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=FBCFE8&strokeWidth=1" width="100%" alt="Mariana Martínez - banner rosa y morado"/>
 
-<h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏</h1>
+<img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="160" alt="Gatito durmiendo"/>
 
-<p align="center">
-  <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="160" alt="Gatito durmiendo"/>
-</p>
-
-<h3 align="center">୨୧ SOFTWARE DEVELOPMENT ୨୧</h3>
+<h3>୨୧ SOFTWARE DEVELOPMENT ୨୧</h3>
 
 <img src="https://img.shields.io/badge/SENA-ADSO-C084FC?style=for-the-badge&logo=bookstack&logoColor=white" alt="SENA ADSO"/>
 <img src="https://img.shields.io/badge/FRONTEND-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend"/>
 <img src="https://img.shields.io/badge/ALWAYS_LEARNING-E9D5FF?style=for-the-badge&logo=github&logoColor=7E22CE" alt="Aprendizaje continuo"/>
 
-<br/><br/>
+<br/>
 
 ✧ ──────────────── ୨୧ ──────────────── ✧
 
 </div>
 
-<h2 align="center">୨୧ &nbsp; TECHNOLOGY STACK &nbsp; ୨୧</h2>
+## ୨୧ About me
+
+<img align="right" width="130" src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" alt="Gatito durmiendo"/>
+
+- Estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA.
+- Me gusta crear interfaces web bonitas, organizar diseños y aprender nuevas tecnologías.
+- Actualmente estoy fortaleciendo mis conocimientos en desarrollo frontend y backend.
+- Me gusta aprender de manera autónoma y llevar mis ideas a proyectos reales.
+- Siempre busco mejorar mis habilidades y aprender algo nuevo.
+
+<br clear="right"/>
+
+## ୨୧ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react&theme=light" alt="Java, HTML, CSS, JavaScript y React"/>
+### Frontend
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&theme=light" alt="HTML, CSS, JavaScript, React, Bootstrap y Vite"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y VS Code"/>
+### Backend & Database
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,mysql,supabase&theme=light" alt="Java, Node.js, Express, MySQL y Supabase"/>
 
-<img src="https://img.shields.io/badge/Java-C084FC?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-F9A8D4?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-C084FC?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-C084FC?style=flat-square&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/SQL-F9A8D4?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+### Tools
 
-<br/><br/>
-
-✧ ──────────────── ୨୧ ──────────────── ✧
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light" alt="Git, GitHub, VS Code, Postman y Docker"/>
 
 </div>
 
----
-
-<h2 align="center">୨୧ &nbsp; FEATURED PROJECTS &nbsp; ୨୧</h2>
+## ୨୧ Featured Project
 
 <div align="center">
 
-<a href="https://github.com/mariana42003?tab=repositories">
-  <img src="https://img.shields.io/badge/✧_KRONOS-Inventory_System-E879F9?style=for-the-badge&logo=github&logoColor=white" alt="KRONOS Inventory System"/>
+<a href="https://github.com/mariana42003/Kronos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&title_color=C084FC&text_color=E5DFF5&icon_color=F9A8D4&bg_color=0D1117&border_color=E9D5FF" alt="Proyecto Kronos"/>
+</a>
+
+</div>
+
+**KRONOS — Inventory Control System**
+
+Sistema de gestión de inventario desarrollado para la ferretería y perfilería Solmet. Busca facilitar el control de existencias, las entradas y salidas de materiales, los proveedores y las garantías.
+
+- Gestión de inventario y materiales.
+- Registro de entradas y salidas.
+- Gestión de proveedores y órdenes de compra.
+- Seguimiento de garantías.
+
+## ୨୧ GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5DFF5&icon_color=F9A8D4&rank_icon=github" alt="Estadísticas de GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5DFF5" alt="Lenguajes más utilizados"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=mariana42003&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=F9A8D4&currStreakLabel=E9D5FF" alt="Racha de contribuciones"/>
+
+</div>
+
+## ୨୧ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&bg_color=0D1117&color=E9D5FF&line=C084FC&point=F9A8D4&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de GitHub"/>
+
+</div>
+
+## ୨୧ Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/mariana42003">
+  <img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mariana-martinez-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Inventory_Management-C084FC?style=flat-square" alt="Gestión de inventario"/>
-<img src="https://img.shields.io/badge/Database_SQL-F9A8D4?style=flat-square" alt="Base de datos SQL"/>
-<img src="https://img.shields.io/badge/Frontend_&_Backend-E9D5FF?style=flat-square" alt="Frontend y backend"/>
+✧ ˚ · . ୨୧ . · ˚ ✧
 
-<br/><br/>
-
-<a href="https://github.com/mariana42003?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&theme=omni&hide_border=true" width="75%" alt="Tarjeta del repositorio KRONOS"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mariana42003?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FFB6D9?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los repositorios"/>
-</a>
-
-<br/><br/>
-
-✧ ──────────────── ୨୧ ──────────────── ✧
-
-</div>
-
----
-
-<h2 align="center">୨୧ &nbsp; GITHUB ANALYTICS &nbsp; ୨୧</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&theme=omni&hide_border=true&rank_icon=github&include_all_commits=true" width="47%" alt="Estadísticas generales de GitHub"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&theme=omni&hide_border=true&langs_count=6" width="42%" alt="Lenguajes más utilizados"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mariana42003&theme=omni&hide_border=true" width="65%" alt="Racha de contribuciones"/>
-
-<br/><br/>
-
-✧ ──────────────── ୨୧ ──────────────── ✧
-
-</div>
-
----
-
-<h2 align="center">୨୧ &nbsp; CONTRIBUTION GRAPH &nbsp; ୨୧</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&theme=omni&hide_border=true&area=true&custom_title=Coding%20Activity&height=200" width="90%" alt="Gráfica de actividad en GitHub"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C084FC,100:EC4899&height=110&section=footer" width="100%" alt="Decoración ondulada rosa y morada"/>
-
-<img src="https://img.shields.io/badge/Made_with-♡_and_code-FFB6D9?style=for-the-badge&logo=github&logoColor=white" alt="Made with love and code"/>
-
-<br/><br/>
-
-✧ &nbsp; ୨୧ &nbsp; ✧ &nbsp; ୨୧ &nbsp; ✧
+<sub>Made with care by Mariana Martínez</sub>
 
 </div>
