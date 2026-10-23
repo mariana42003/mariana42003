@@ -19,7 +19,7 @@
 
 ## ୨୧ About me
 
-<img align="right" width="130" src="[https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif](https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif)" alt="Gatito durmiendo"/>
+<img align="right" width="130" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif" alt="Gatito durmiendo"/>
 
 - Estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA.
 - Me gusta crear interfaces web bonitas, organizar diseños y aprender nuevas tecnologías.
