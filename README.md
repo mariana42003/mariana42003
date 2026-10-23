@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:F9A8D4,50:C084FC,100:EC4899&text=%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B6%20%E2%84%B3%F0%9D%92%B6%F0%9D%93%87%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%92%F0%9D%93%8F&fontColor=FFFFFF&fontSize=38&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner rosa y morado"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:F9A8D4,50:C084FC,100:EC4899&text=Mariana%20Martinez&fontColor=FFFFFF&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner rosa y morado"/>
 
 <h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="180" alt="Gatito durmiendo"/>
+  <img src="https://media.tenor.com/OnteRofclGoAAAAj/gatito-dormir.gif" width="160" alt="Gatito durmiendo"/>
 </p>
 
 <h3 align="center">୨୧ SOFTWARE DEVELOPMENT ୨୧</h3>
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y VS Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y Visual Studio Code"/>
 
 <br/><br/>
 
@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-✧ &nbsp; ──────── &nbsp; ✧ &nbsp; ──────── &nbsp; ✧
+✧ ──────────────── ୨୧ ──────────────── ✧
 
 </div>
 
@@ -64,7 +64,7 @@
 <br/><br/>
 
 <a href="https://github.com/mariana42003?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&theme=omni&hide_border=true" width="90%" alt="Tarjeta del repositorio KRONOS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&theme=omni&hide_border=true" width="75%" alt="Tarjeta del repositorio KRONOS"/>
 </a>
 
 <br/><br/>
@@ -85,19 +85,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&theme=omni&hide_border=true&rank_icon=github&include_all_commits=true" width="95%" alt="Estadísticas generales de GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&theme=omni&hide_border=true&rank_icon=github&include_all_commits=true" width="47%" alt="Estadísticas generales de GitHub"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&theme=omni&hide_border=true&langs_count=6" width="42%" alt="Lenguajes más utilizados"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&theme=omni&hide_border=true&langs_count=8" width="85%" alt="Lenguajes más utilizados"/>
+<img src="https://streak-stats.demolab.com?user=mariana42003&theme=omni&hide_border=true" width="65%" alt="Racha de contribuciones"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mariana42003&theme=omni&hide_border=true" width="95%" alt="Racha de contribuciones"/>
-
-<br/><br/>
-
-✧ &nbsp; ──────── &nbsp; ✧ &nbsp; ──────── &nbsp; ✧
+✧ ──────────────── ୨୧ ──────────────── ✧
 
 </div>
 
@@ -107,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&theme=omni&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="100%" alt="Gráfica de actividad de GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana42003&theme=omni&hide_border=true&area=true&custom_title=Coding%20Activity&height=200" width="90%" alt="Gráfica de actividad en GitHub"/>
 
 </div>
 
@@ -115,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C084FC,100:EC4899&height=130&section=footer" width="100%" alt="Decoración ondulada rosa y morada"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C084FC,100:EC4899&height=110&section=footer" width="100%" alt="Decoración ondulada rosa y morada"/>
 
 <img src="https://img.shields.io/badge/Made_with-♡_and_code-FFB6D9?style=for-the-badge&logo=github&logoColor=white" alt="Made with love and code"/>
 
