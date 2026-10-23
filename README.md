@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:F9A8D4,50:C084FC,100:EC4899&text=Mariana%20Martinez&fontColor=FFFFFF&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner rosa y morado"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:F9A8D4,50:C084FC,100:EC4899&fontColor=FFFFFF&fontSize=38&fontAlignY=50&animation=fadeIn&stroke=FBCFE8" width="100%" alt="Fondo decorativo rosa y morado"/>
 
 <h1 align="center">ℳ𝒶𝓇𝒾𝒶𝓃𝒶 ℳ𝒶𝓇𝓉𝒾𝓃𝑒𝓏</h1>
 
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=light" alt="MySQL, Supabase, Git, GitHub y VS Code"/>
 
 <br/><br/>
 
