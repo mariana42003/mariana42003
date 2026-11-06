@@ -49,15 +49,9 @@
 
 ## ୨୧ GitHub Statistics
 
-<div align="center">
+<img src="https://ghstats.dev/api/card?username=mariana42003&theme=dracula&border_radius=50&size=compact" alt="GitHub Stats Card" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariana42003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5DFF5&icon_color=F9A8D4&rank_icon=github" alt="Estadísticas de GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana42003&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5DFF5" alt="Lenguajes más utilizados"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=mariana42003&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=F9A8D4&currStreakLabel=E9D5FF" alt="Racha de contribuciones"/>
-
-
+<img src="https://ghstats.dev/api/langs?username=mariana42003&theme=dracula&layout=stacked" alt="Top Languages" />
 
 ## ୨୧ Let's Connect
 
