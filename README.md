@@ -47,25 +47,6 @@
 
 </div>
 
-## ୨୧ Featured Project
-
-<div align="center">
-
-<a href="https://github.com/mariana42003/Kronos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariana42003&repo=Kronos&title_color=C084FC&text_color=E5DFF5&icon_color=F9A8D4&bg_color=0D1117&border_color=E9D5FF" alt="Proyecto Kronos"/>
-</a>
-
-</div>
-
-**KRONOS — Inventory Control System**
-
-Sistema de gestión de inventario desarrollado para la ferretería y perfilería Solmet. Busca facilitar el control de existencias, las entradas y salidas de materiales, los proveedores y las garantías.
-
-- Gestión de inventario y materiales.
-- Registro de entradas y salidas.
-- Gestión de proveedores y órdenes de compra.
-- Seguimiento de garantías.
-
 ## ୨୧ GitHub Statistics
 
 <div align="center">
