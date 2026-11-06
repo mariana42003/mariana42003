@@ -49,9 +49,13 @@
 
 ## ୨୧ GitHub Statistics
 
+<div align="center">
+  
 <img src="https://ghstats.dev/api/card?username=mariana42003&theme=dracula&border_radius=50&size=compact" alt="GitHub Stats Card" />
 
 <img src="https://ghstats.dev/api/langs?username=mariana42003&theme=dracula&layout=stacked" alt="Top Languages" />
+
+</div>
 
 ## ୨୧ Let's Connect
 
